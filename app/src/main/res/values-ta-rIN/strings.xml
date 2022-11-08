@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language</string>
+    <string name="selected_language">தமிழ்</string>
+    <string name="language">வணக்கம் நீங்கள் தமிழைத் தேர்ந்தெடுத்துள்ளீர்கள்</string>
+</resources>
